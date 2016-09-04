@@ -1,0 +1,101 @@
+2016-09-04 20:25:56 INFO  MainController:39 - In second method
+2016-09-04 20:25:56 INFO  MainController:45 - In try block of second method
+2016-09-04 20:25:56 INFO  MainController:46 - ID:117
+2016-09-04 20:25:56 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 20:25:59 INFO  MainController:39 - In second method
+2016-09-04 20:25:59 INFO  MainController:45 - In try block of second method
+2016-09-04 20:25:59 INFO  MainController:46 - ID:1
+2016-09-04 20:26:03 INFO  MainController:39 - In second method
+2016-09-04 20:26:03 INFO  MainController:45 - In try block of second method
+2016-09-04 20:26:03 INFO  MainController:46 - ID:3
+2016-09-04 20:26:05 INFO  MainController:39 - In second method
+2016-09-04 20:26:05 INFO  MainController:45 - In try block of second method
+2016-09-04 20:26:05 INFO  MainController:46 - ID:3
+2016-09-04 20:26:07 INFO  MainController:39 - In second method
+2016-09-04 20:26:07 INFO  MainController:45 - In try block of second method
+2016-09-04 20:26:07 INFO  MainController:46 - ID:741
+2016-09-04 20:26:07 INFO  MainController:48 - Country: Федеративні Штати Мікронезії
+2016-09-04 20:28:52 INFO  MainController:39 - In second method
+2016-09-04 20:28:52 INFO  MainController:45 - In try block of second method
+2016-09-04 20:28:52 INFO  MainController:46 - ID:117
+2016-09-04 20:28:52 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 20:30:13 INFO  MainController:39 - In second method
+2016-09-04 20:30:13 INFO  MainController:45 - In try block of second method
+2016-09-04 20:30:13 INFO  MainController:46 - ID:117
+2016-09-04 20:30:13 INFO  MainController:48 - Country: РђРЅС‚РёТ‘СѓР° С– Р‘Р°СЂР±СѓРґР°
+2016-09-04 20:31:52 INFO  MainController:39 - In second method
+2016-09-04 20:31:52 INFO  MainController:45 - In try block of second method
+2016-09-04 20:31:52 INFO  MainController:46 - ID:117
+2016-09-04 20:31:53 INFO  MainController:48 - Country: РђРЅС‚РёТ‘СѓР° С– Р‘Р°СЂР±СѓРґР°
+2016-09-04 20:47:18 INFO  MainController:39 - In second method
+2016-09-04 20:47:18 INFO  MainController:45 - In try block of second method
+2016-09-04 20:47:18 INFO  MainController:46 - ID:117
+2016-09-04 20:47:18 INFO  MainController:48 - Country: РђРЅС‚РёТ‘СѓР° С– Р‘Р°СЂР±СѓРґР°
+2016-09-04 20:50:28 INFO  MainController:39 - In second method
+2016-09-04 20:50:28 INFO  MainController:45 - In try block of second method
+2016-09-04 20:50:28 INFO  MainController:46 - ID:117
+2016-09-04 20:50:28 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 20:51:24 INFO  MainController:39 - In second method
+2016-09-04 20:51:24 INFO  MainController:45 - In try block of second method
+2016-09-04 20:51:24 INFO  MainController:46 - ID:117
+2016-09-04 20:51:24 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 20:53:34 INFO  MainController:39 - In second method
+2016-09-04 20:53:34 INFO  MainController:45 - In try block of second method
+2016-09-04 20:53:34 INFO  MainController:46 - ID:117
+2016-09-04 20:53:34 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 20:54:32 INFO  MainController:39 - In second method
+2016-09-04 20:54:32 INFO  MainController:45 - In try block of second method
+2016-09-04 20:54:32 INFO  MainController:46 - ID:117
+2016-09-04 20:54:32 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 20:55:23 INFO  MainController:39 - In second method
+2016-09-04 20:55:23 INFO  MainController:45 - In try block of second method
+2016-09-04 20:55:23 INFO  MainController:46 - ID:117
+2016-09-04 20:55:23 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 20:56:29 INFO  MainController:39 - In second method
+2016-09-04 20:56:29 INFO  MainController:45 - In try block of second method
+2016-09-04 20:56:29 INFO  MainController:46 - ID:117
+2016-09-04 20:56:29 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 20:58:08 INFO  MainController:39 - In second method
+2016-09-04 20:58:08 INFO  MainController:45 - In try block of second method
+2016-09-04 20:58:08 INFO  MainController:46 - ID:117
+2016-09-04 20:58:08 INFO  MainController:48 - Country: Антиґуа і Барбуда
+2016-09-04 21:03:34 INFO  MainController:39 - In second method
+2016-09-04 21:03:34 INFO  MainController:45 - In try block of second method
+2016-09-04 21:03:34 INFO  MainController:46 - ID:117
+2016-09-04 21:03:34 INFO  MainController:49 - Country: Антиґуа і Барбуда
+2016-09-04 21:10:36 INFO  MainController:41 - In second method
+2016-09-04 21:10:36 INFO  MainController:47 - In try block of second method
+2016-09-04 21:10:36 INFO  MainController:48 - ID:117
+2016-09-04 21:10:37 INFO  MainController:50 - Country: Антиґуа і Барбуда
+2016-09-04 21:10:49 INFO  MainController:41 - In second method
+2016-09-04 21:10:49 INFO  MainController:47 - In try block of second method
+2016-09-04 21:10:49 INFO  MainController:48 - ID:1
+2016-09-04 21:11:59 INFO  MainController:41 - In second method
+2016-09-04 21:11:59 INFO  MainController:47 - In try block of second method
+2016-09-04 21:11:59 INFO  MainController:48 - ID:117
+2016-09-04 21:11:59 INFO  MainController:50 - Country: Антиґуа і Барбуда
+2016-09-04 21:12:03 INFO  MainController:41 - In second method
+2016-09-04 21:12:03 INFO  MainController:47 - In try block of second method
+2016-09-04 21:12:03 INFO  MainController:48 - ID:1
+2016-09-04 21:13:56 INFO  MainController:41 - In second method
+2016-09-04 21:13:56 INFO  MainController:47 - In try block of second method
+2016-09-04 21:13:56 INFO  MainController:48 - ID:117
+2016-09-04 21:13:56 INFO  MainController:50 - Country: Антиґуа і Барбуда
+2016-09-04 21:14:00 INFO  MainController:41 - In second method
+2016-09-04 21:14:00 INFO  MainController:47 - In try block of second method
+2016-09-04 21:14:00 INFO  MainController:48 - ID:1
+2016-09-04 21:16:25 INFO  MainController:41 - In second method
+2016-09-04 21:16:25 INFO  MainController:47 - In try block of second method
+2016-09-04 21:16:25 INFO  MainController:48 - ID:117
+2016-09-04 21:16:25 INFO  MainController:50 - Country: Антиґуа і Барбуда
+2016-09-04 21:16:27 INFO  MainController:41 - In second method
+2016-09-04 21:16:27 INFO  MainController:47 - In try block of second method
+2016-09-04 21:16:27 INFO  MainController:48 - ID:2
+2016-09-04 21:16:29 INFO  MainController:41 - In second method
+2016-09-04 21:16:29 INFO  MainController:47 - In try block of second method
+2016-09-04 21:16:29 INFO  MainController:48 - ID:117
+2016-09-04 21:16:29 INFO  MainController:50 - Country: Антиґуа і Барбуда
+2016-09-04 21:16:31 INFO  MainController:41 - In second method
+2016-09-04 21:16:31 INFO  MainController:47 - In try block of second method
+2016-09-04 21:16:31 INFO  MainController:48 - ID:741
+2016-09-04 21:16:31 INFO  MainController:50 - Country: Федеративні Штати Мікронезії
